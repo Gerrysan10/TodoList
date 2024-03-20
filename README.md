@@ -1,5 +1,5 @@
 # Conclusiones
-## Funciones
+## Explicación funciones
 ### handleSubmit
 
 ```jsx
