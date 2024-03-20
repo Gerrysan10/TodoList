@@ -5,7 +5,7 @@ h1 {
   }
 
   body {
-    background: grey
+    background: rgb(107, 202, 116)
   }
   #todo-list {
     width: 500px;
@@ -29,11 +29,12 @@ h1 {
   .todo {
     display: flex;
     flex-direction: column;
+    background-color: rgb(178, 232, 175);
   }
     
   button {
     font-size: 16px;
-    background-color: rgb(62, 138, 151);
+    background-color: rgb(123, 91, 160);
     color: #fff;
     border-radius: 8px;
     border: none;
@@ -68,10 +69,12 @@ h1 {
   .todo-completed {
     display: flex;
     margin: 10px 0;
+   
   }
   .todo-actions {
     display: flex;
     justify-content: space-between;
+    
   }
 
   #completed {
